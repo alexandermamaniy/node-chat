@@ -1,2 +1,2 @@
-node_modules/
-package-lock.json
+infrastructure/codeDeploy/node_modules/
+infrastructure/codeDeploy/package-lock.json
